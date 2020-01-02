@@ -1,4 +1,4 @@
-# Master-Po-Shen-Loh-s-New-Method-of-Solving-Quadratics
+# Master Po Shen Loh's New Method of Solving Quadratics / Quadratic Equations
 As seen here, https://www.poshenloh.com/quadraticdetail/ Master Po discovered a simplier way to solve quadratics so I figured I'd implement it in Python
 
 It's a newly discovered way of solving quadratic functions without even guessing the b and c,
